@@ -1,3 +1,3 @@
 # Vedant Valsangkar - Portfolio Website
 
-Link: [https://vedant-9.github.io/portfolio](https://vedant-9.github.io/portfolio)
+Link: [https://vedant-9.github.io/](https://vedant-9.github.io/)
