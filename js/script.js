@@ -38,8 +38,9 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize Typed.js
     const options = {
         strings: [
+            'Software Development Engineer',
             'Full-Stack Developer',
-            'Android/IOS Developer',
+            'Android & IOS Developer',
             'Problem Solver'
         ],
         typeSpeed: 50,
