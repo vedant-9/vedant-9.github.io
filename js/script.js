@@ -39,8 +39,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const options = {
         strings: [
             'Software Development Engineer',
+            'Backend Engineer',
             'Full-Stack Developer',
-            'Android & IOS Developer',
             'Problem Solver'
         ],
         typeSpeed: 50,
